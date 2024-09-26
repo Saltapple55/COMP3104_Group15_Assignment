@@ -1,0 +1,3 @@
+The Devops course aka COMP3104
+Teaches students about Git Bash usage and good git habits without the usage
+of github application
