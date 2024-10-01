@@ -1,0 +1,14 @@
+The COMP3104 - DevOps course equips students with the skills and knowledge needed to implement DevOps practices in a workplace environment, increasing productivity through best practices and industry-standard tools. The course covers key DevOps techniques such as continuous integration, delivery, deployment, application containerization, and version control systems.
+
+Course Outcomes: By the end of the course, students will be able to:
+
+Apply DevOps tools and techniques for software development and deployment.
+Perform hands-on lab work using DevOps methods.
+Facilitate cross-team collaboration within IT.
+Use Version Control Systems for efficient software releases.
+Make architectural decisions on monolithic vs. microservice software.
+Monitor code quality and deploy applications to hosting platforms.
+Leverage cloud computing and Infrastructure as Code.
+Understand the DevOps engineer’s role in the job market.
+
+
