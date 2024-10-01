@@ -1,0 +1,4 @@
+Importance of learning DevOps
+1. Improved Collaboration and communication
+	-Enhancing teamwork that can be break down in different tasks for group members
+
