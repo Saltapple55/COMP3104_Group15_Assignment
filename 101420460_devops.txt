@@ -1,3 +1,4 @@
-DevOps stands for development and operations. A good company has good devOps. 
+DevOps stands for development and operations. A good company has effective devOps, which is the 
+key to high-velocity development. 
 
-Good DevOps will have a good CI/CD pipeline. 
+Good DevOps will have a good CI/CD pipeline. Continuous Integration means that code is regularly merged to main. 
