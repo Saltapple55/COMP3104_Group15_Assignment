@@ -3,3 +3,5 @@ This is the software development life cycle document.
 There are two types of SDLCs: Agile and Waterfall. 
 Waterfall development is a more traditional method of development, where all stages happen in order.
 It is, however, inefficient because its less likely to be able to adjust to changes. 
+
+Most successful companies use agile development, which take the steps of the development cycle as not a ladder to climb, but a cycle, continuously updating each part.
