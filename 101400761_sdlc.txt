@@ -1,1 +1,1 @@
-i do not know what sdlc is other than Short Derm Lemory Coss 
+sdlc is Software Dev Life Cycle, it ensures softwares are updated in a cycle, and not a one and done thing.
