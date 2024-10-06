@@ -4,11 +4,15 @@
 
 1. Automation 
 
-Automation helps reduce the repetition of tasks 
+ Automation helps reduce the repetition of tasks 
 
 	-> build, testing, deployment process, etc 
 
 2. Collaboration
 
-Teams can share the code stored in the cloud using service such as GitHub.
-This helps review code, integrate features of a project smoothly.
+ Teams can share the code stored in the cloud using service such as GitHub.
+ This helps review code, integrate features of a project smoothly.
+
+3. Containerization
+
+ Using a platform such as Docker, managing and deploying applications becomes more simple by putting all the necessary items into a container. 
