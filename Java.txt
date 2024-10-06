@@ -1,1 +1,0 @@
-Java is really powerful language. You should learn Java first and then learn the framework later, for example Spring or Spring Boot

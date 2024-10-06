@@ -14,6 +14,7 @@ with a focus on practical implementation of core DevOps principles.
 1. Clone the repository
 2. Switch to your branch using 'git checkout STUDENTID-Name'
 3. Install all dependencies as listed
+
 4. All members should create a branch base off from main
 5. Make 10 commits with meaningful messages
 6. Update Readme file
@@ -32,8 +33,12 @@ changes efficiently
 GitFlow or GitHub Flow to maintain a clean and manageable proejct history
 
 ## Branching Strategies
+
 1. The repostiory will utilize structured branching models and manage development
 2. Each member has their own branch named 'STUDENTID-firstName-LastName' All changes are merged into the 'main' branch via pull request
+3. Strategies such as feature branches, development branches, hotfix branches,
+and release branches will be implemented
+
 
 ## Continuous Integreation/Continuous Deployment(CI/CD) Integreation
 1. The assignment incorporates CI/CD pipelines using tools like Jenkins,
@@ -43,5 +48,4 @@ GitLab CI, Travis CI, or GitHub Actions
 ## Testing & Code Quality
 1. Automated testing suites will be integrated into the CI/CD piplelines to check for regressions and verify the functionality of new features
 2. Code linting and stle checks may be enforced as part of the workflow to maintain consistent code quality throughout the project.
->>>>>>> 2f439c54045b46ab0bbfa62c0724e5ec3c58e4ee
 
