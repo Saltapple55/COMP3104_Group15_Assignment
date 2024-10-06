@@ -22,6 +22,7 @@ with a focus on practical implementation of core DevOps principles.
 9. Commit and push template
 10. Submit a PDF file with the above mentioned process
 
+
 ## Collaborative git workflows
 1. The project requires students to work collaboratively using Git version
 control system.
@@ -35,10 +36,11 @@ GitFlow or GitHub Flow to maintain a clean and manageable proejct history
 2. Each member has their own branch named 'STUDENTID-firstName-LastName' All changes are merged into the 'main' branch via pull request
 
 ## Continuous Integreation/Continuous Deployment(CI/CD) Integreation
-1. The assignment incorporates CI/CD pipelines using tools like GitHub Actions
+1. The assignment incorporates CI/CD pipelines using tools like Jenkins,
+GitLab CI, Travis CI, or GitHub Actions
 2. The goal is to automate the build, test, and deployment processes, ensuring code quality and reducing manual intervention.
 
 ## Testing & Code Quality
 1. Automated testing suites will be integrated into the CI/CD piplelines to check for regressions and verify the functionality of new features
-2. Code linting and stle checks may be enforced as part of the workflow to 
-maintain consistent code quality throughout the project.
+2. Code linting and stle checks may be enforced as part of the workflow to maintain consistent code quality throughout the project.
+
