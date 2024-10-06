@@ -47,5 +47,8 @@ GitLab CI, Travis CI, or GitHub Actions
 
 ## Testing & Code Quality
 1. Automated testing suites will be integrated into the CI/CD piplelines to check for regressions and verify the functionality of new features
+
+
 2. Code linting and stle checks may be enforced as part of the workflow to maintain consistent code quality throughout the project.
+
 

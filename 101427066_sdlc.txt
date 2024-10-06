@@ -1,0 +1,22 @@
+*** Importance of learning DevOps in the software development cycle ***
+
+* Key points of the importance of learning DevOps
+
+1. Automation 
+
+ Automation helps reduce the repetition of tasks 
+
+	-> build, testing, deployment process, etc 
+
+2. Collaboration
+
+ Teams can share the code stored in the cloud using service such as GitHub.
+ This helps review code, integrate features of a project smoothly.
+
+3. Containerization
+
+ Using a platform such as Docker, managing and deploying applications becomes more simple by putting all the necessary items into a container. 
+
+4. Faster delivery
+
+ Thanks to the approaches mentioned above, updating and releasing software becomes faster.
