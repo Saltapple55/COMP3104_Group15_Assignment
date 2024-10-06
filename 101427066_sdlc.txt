@@ -16,3 +16,7 @@
 3. Containerization
 
  Using a platform such as Docker, managing and deploying applications becomes more simple by putting all the necessary items into a container. 
+
+4. Faster delivery
+
+ Thanks to the approaches mentioned above, updating and releasing software becomes faster.
