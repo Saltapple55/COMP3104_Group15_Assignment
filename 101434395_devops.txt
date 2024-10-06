@@ -2,7 +2,8 @@ The Devops course aka COMP3104
 Teaches students about Git Bash usage and good git habits without the usage
 of github application
 
-There are 10 Quizzes in this course only 8 out of them counts for marks
-Mid term exam is in week 7 and Final is in Week15
-Group Assignment is due in week 6
-Individual Assignment is due in Week-12
+There are 10 Quizzes in this course only 8 out of them counts for marks - 8%
+Mid term exam is in week 7 and Final is in Week15 -20% & 30%
+Group Assignment is due in week 6 - 16%
+Individual Assignment is due in Week-12 -10%
+
