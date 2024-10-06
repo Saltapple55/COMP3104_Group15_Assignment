@@ -1,4 +1,5 @@
-*** Information about the COMP3104 DevOps course ***
+*** Information on the course COMP3104 DevOps  ***
+
 
 * Important dates of COMP3104 in 2024 Winter
 
@@ -10,3 +11,12 @@
 
 - Final exam: week15 - December 11th
 
+
+
+* Operation
+This course holds an online class on Wednesday from 6PM to 9PM. 
+In terms of the methods of evaluation, there are two exams, two assignments and 10 lab exercises and 10 quizzes. 
+
+
+* Description 
+Through this course, students learn the concept of DevOps and the tools surronding this approach. 
