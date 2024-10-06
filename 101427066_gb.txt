@@ -1,23 +1,71 @@
 *** Information about George Brown College ***
 
-* Campuses and Location of George Brown College
+* Campuses information of George Brown College
 
 - Casa Loma Campus: 
+
+	- Address
 	
-	160 Kendal Avenue
+		160 Kendal Avenue
 
-	Toronto, ON M5R 1M3
+		Toronto, ON M5R 1M3
 
-	Canada
+		Canada
+
+	- Academic centres 
+		
+		- Centres for Construction & Engineering Technologies
+		
+		- Centre for Preparatory & Liberal Studies
+		
+		- Centre for Arts, Design & Information Technology
+
+		
 
 
-- St. James Campus: 
-	
-	200 King St E, 
-	Toronto, ON M5A 3W8
-	Canada
+- St. James Campus:
+
+	- Address
+
+		200 King St E, 
+
+		Toronto, ON M5A 3W8
+
+		Canada
+
+	- Academic centres
+
+		- Centre for Business
+
+		- Centre for Arts, Design & Information Technology
+
+		- Centre for Community Services & Early Childhood
+
+		- Centre for Hospitality & Culinary Arts
+
+		- Centre for Preparatory & Liberal Studies
+
+		
 
 - Waterfront Campus:
-	51 Dockside Dr, 
-	Toronto, ON M5A 1B6
-	Canada
+
+	- Address
+	
+		51 Dockside Dr, 
+
+		Toronto, ON M5A 1B6
+
+		Canada
+
+
+	- Academic centres
+
+		- School of design
+
+		- School of Dental Health
+
+		- School of Health Services Management
+
+		- School of Health & Wellness
+
+		- Sally Horsfall Eaton School of Nursing
