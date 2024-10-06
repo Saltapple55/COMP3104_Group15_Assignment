@@ -1,3 +1,3 @@
-# branch ownwer: Yu Tanaka
+# branch owner: Yu Tanaka
 # course: COMP3104
-# subjwect: Assignment 1
+# subject: Assignment 1
