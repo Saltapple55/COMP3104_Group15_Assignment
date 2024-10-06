@@ -3,7 +3,15 @@ Teaches students about Git Bash usage and good git habits without the usage
 of github application
 
 There are 10 Quizzes in this course only 8 out of them counts for marks - 8%
+Devops Lab Mark total - 16%
 Mid term exam is in week 7 and Final is in Week15 -20% & 30%
 Group Assignment is due in week 6 - 16%
 Individual Assignment is due in Week-12 -10%
 
+Quizzes                  |    8%      
+Lab Exercises            |   16%     +8
+Individual Assignment    |   10%     +24
+Group Assignment         |   16%     +34
+Mid term Exam            |   20%     +50
+Final Exam               |   30%     +70
+Total                    |  100%
