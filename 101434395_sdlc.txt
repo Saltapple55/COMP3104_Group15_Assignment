@@ -1,0 +1,15 @@
+Importance of learning DevOps
+1. Improved Collaboration and communication
+	-Enhancing teamwork that can be break down in different tasks for group members
+2. Faster Software Delivery
+	-The primary goals of DevOps is to accelerate the software development life cycle(SDLC)
+	-The integration of continuous integration(CI) pipeline allows team to devlier update faster
+3. Scalability and Flexibility
+	-DevOps Practices allows project to scale seamlessly which leads to easy implementation of new features quickly
+4. Career Opportunites
+	-Companies with DevOps practices would be likely to hire people that have learned and know about DevOps
+5. Cost reduction:
+	-Optimize proccess from DevOps can cut cost for any on going projects
+6. Faster problem detection and resolution:
+	-DevOps utilizes monitoring tools and CI pipelines to indentify issues faster in production environment to be resolve quickly
+	

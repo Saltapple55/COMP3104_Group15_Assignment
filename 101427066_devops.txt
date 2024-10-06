@@ -1,0 +1,22 @@
+*** Information on the course COMP3104 DevOps  ***
+
+
+* Important dates of COMP3104 in 2024 Winter
+
+- Assignment1: week6 - October 13th
+
+- Assignment2: week12 - November 23rd
+
+- Mid-term exam: week7 - October 17th
+
+- Final exam: week15 - December 11th
+
+
+
+* Operation
+This course holds an online class on Wednesday from 6PM to 9PM. 
+In terms of the methods of evaluation, there are two exams, two assignments and 10 lab exercises and 10 quizzes. 
+
+
+* Description 
+Through this course, students learn the concept of DevOps and the tools surronding this approach. 
