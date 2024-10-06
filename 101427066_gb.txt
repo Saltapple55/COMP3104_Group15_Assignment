@@ -1,6 +1,22 @@
 *** Information about George Brown College ***
 
+
+* Brief history of Geroge Brown College
+
+- 1967: George Brown College was formed
+
+- 1968: college operation started
+
+- 1973: Casa Loma campus extended its building to 160 Kendal Ave
+
+- 1976: St.James campus opened
+
+
+
+
+
 * Campuses information of George Brown College
+- 
 
 - Casa Loma Campus: 
 
@@ -69,3 +85,5 @@
 		- School of Health & Wellness
 
 		- Sally Horsfall Eaton School of Nursing
+
+
